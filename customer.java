@@ -1,4 +1,4 @@
-public class customer {
+public class Customer {
     public static void main(String[] args) {
 		String customerType = "Regular";
 		int quantity = 2;
